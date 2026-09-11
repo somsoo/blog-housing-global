@@ -7,9 +7,9 @@ description: "Discover how rising Treasury yields and energy shocks are squeezin
 ---
 
 ## The Macroeconomic Convergence: Yields, Energy, and Housing 
-<br>
-![Market Chart]({{ '/' | append: 'assets/images/vibe_1789099982_0.webp' | relative_url }})
-<br>
+
+![Housing Affordability Strategic Analysis Graphic]({{ '/' | append: 'assets/images/vibe_1789099982_0.webp' | relative_url }})
+
 
 
 As of September 10, 2026, the intersection of fixed-income volatility and energy market instability has created a profound squeeze on housing market affordability. For REIT strategists and institutional investors, the current environment is defined by the "perfect storm" of rising borrowing costs, inflationary pressures emanating from the energy sector, and a paradoxical deceleration in transaction volume.
@@ -19,9 +19,9 @@ The 10-year Treasury yield—the foundational benchmark for mortgage rates—has
 Compounding this is the energy shock. With U.S. oil prices surging past $100 per barrel—a level not sustained since May—inflation expectations have been violently repriced. The correlation between surging oil prices and rising Treasury yields is a classic stagflationary signal. For the housing market, this means that even if a prospective buyer is insulated from the immediate volatility of stock markets (which have booked four straight days of losses), they are being hit by a dual-front attack: the high cost of debt service and the erosion of real disposable income caused by energy-driven inflation.
 
 ## Inventory Liquidity and the K-Shaped Housing Split 
-<br>
-![Market Chart]({{ '/' | append: 'assets/images/vibe_1789099982_1.webp' | relative_url }})
-<br>
+
+![Housing Affordability Strategic Analysis Graphic]({{ '/' | append: 'assets/images/vibe_1789099982_1.webp' | relative_url }})
+
 
 
 A critical anomaly in the current market cycle is the divergence between inventory levels and sales velocity. Reports indicate that the housing market is currently experiencing its highest supply of inventory in over a decade. Ordinarily, such an inventory surplus would exert downward pressure on home prices. However, we are witnessing a "K-shaped" housing market split.
@@ -31,9 +31,9 @@ The "slowest home sales in more than a year" metric suggests that liquidity is e
 For institutional REIT managers, this creates a unique liquidity risk. High inventory levels generally imply a healthy turnover potential; however, when the transaction mechanism (the mortgage market) is broken, inventory becomes "stranded." This stranded inventory is not a precursor to a price crash in the traditional sense, but rather a reflection of a market that has hit an affordability wall. The lack of transaction volume suggests that the price discovery mechanism is malfunctioning, leaving us in a period of high-supply, low-velocity stagnation.
 
 ## Comparative Metrics: Market Indicators as of Sept 10, 2026 
-<br>
-![Market Chart]({{ '/' | append: 'assets/images/vibe_1789099983_2.webp' | relative_url }})
-<br>
+
+![Housing Affordability Strategic Analysis Graphic]({{ '/' | append: 'assets/images/vibe_1789099983_2.webp' | relative_url }})
+
 
 
 The following table summarizes the primary data points influencing the current real estate investment climate.
@@ -49,9 +49,9 @@ The following table summarizes the primary data points influencing the current r
 *Note: Specific dollar-denominated average home prices and exact mortgage percentage points remain undisclosed in current reporting, highlighting the reliance on trend analysis over absolute pricing data.*
 
 ## Strategic Outlook and Institutional Action Plan 
-<br>
-![Market Chart]({{ '/' | append: 'assets/images/vibe_1789099983_3.webp' | relative_url }})
-<br>
+
+![Housing Affordability Strategic Analysis Graphic]({{ '/' | append: 'assets/images/vibe_1789099983_3.webp' | relative_url }})
+
 
 
 For the institutional investor, the current housing landscape requires a pivot from growth-oriented acquisition strategies to defensive yield preservation. The combination of sustained bond market selloffs and energy-led inflation suggests that the "higher for longer" narrative has transitioned into a "higher and more volatile" reality. 
