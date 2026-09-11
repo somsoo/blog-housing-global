@@ -1,0 +1,10 @@
+title: "Global Real Estate & Housing Trends"
+description: "Macro analysis on residential housing inventory, mortgage rates, and commercial real estate."
+url: "https://housing-global.enjoy-onepage.com"
+baseurl: ''
+theme: minima
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
